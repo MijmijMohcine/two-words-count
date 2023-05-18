@@ -1,4 +1,4 @@
-#two-words-count
+#MapReduce-two-words-count
 
 this MapReduce software is automatically
 analyses the dataset from https://bit.ly/33TppmH in order to extract the most frequent phrases (i.e.,
